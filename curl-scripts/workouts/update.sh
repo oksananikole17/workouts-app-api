@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 
 API="http://localhost:4741"
-URL_PATH="/examples"
+URL_PATH="/workouts"
 
 curl "${API}${URL_PATH}/${ID}" \
   --include \
@@ -9,8 +9,10 @@ curl "${API}${URL_PATH}/${ID}" \
   --header "Content-Type: application/json" \
 --header "Authorization: Bearer ${TOKEN}" \
 --data '{
-    "example": {
-      "text": "'"${TEXT}"'"
+ "workouts": {
+      "type": "'"${TYPE}"'",
+      "date": "'"${DATE}"'",
+      "duration": "'"${DURATION}"'"
     }
   }'
 
