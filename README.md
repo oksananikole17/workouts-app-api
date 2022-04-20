@@ -10,6 +10,7 @@ If you are interested in adding to the back-end of this application, follow thes
 2. Change into the new directory.
 3. Create and checkout a new branch to make changes or edits to the code.
 4. When finished, push to your fork and submit a pull request.
+5. To simply use the app in the browser, visit https://oksananikole17.github.io/workouts-app-project/ .
 
 
 ## User Stories
