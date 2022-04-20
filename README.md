@@ -20,4 +20,8 @@ If you are interested in adding to the back-end of this application, follow thes
 * As a user, I want to be able easily store the important details of my workout like date and duration.
 * As a user, I want to be able to view all the workouts I have tracked and see how consist I have been over the course of a week, month, etc.
 
+## Wireframe
+
+To view my project wireframe, visit: https://i.imgur.com/Ty1Y52o.jpg
+
 ```
