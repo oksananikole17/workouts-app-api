@@ -25,3 +25,7 @@ If you are interested in adding to the back-end of this application, follow thes
 To view my project wireframe, visit: https://i.imgur.com/Ty1Y52o.jpg
 
 ```
+
+## ERD
+
+To view my project ERD, visit:https://imgur.com/a/SULTmnO
